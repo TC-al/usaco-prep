@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="mixmilk">
-      <change afterPath="$PROJECT_DIR$/src/Speedingticket.java" afterDir="false" />
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="speedingticket">
+      <change afterPath="$PROJECT_DIR$/src/Blockgame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Blockgame.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mixmilk.executor": "Run",
     "Application.Shell.executor": "Run",
@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763247178303</updated>
       <workItem from="1763247179369" duration="13414000" />
-      <workItem from="1763327988853" duration="1891000" />
+      <workItem from="1763327988853" duration="8382000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -90,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763272572411</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="speedingticket">
+      <option name="closed" value="true" />
+      <created>1763329934266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763329934266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mixmilk" />
-    <option name="LAST_COMMIT_MESSAGE" value="mixmilk" />
+    <MESSAGE value="speedingticket" />
+    <option name="LAST_COMMIT_MESSAGE" value="speedingticket" />
   </component>
 </project>
