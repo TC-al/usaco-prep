@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="speedingticket">
-      <change afterPath="$PROJECT_DIR$/src/Blockgame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maxdistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maxdistance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,6 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="35XCkyKzBiddtpEYLtSrDjVX82x" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,11 +47,16 @@
   "keyToString": {
     "Application.Blockgame.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Maxdistance.executor": "Run",
+    "Application.MaxdistanceNativeTest.executor": "Run",
     "Application.Mixmilk.executor": "Run",
     "Application.Shell.executor": "Run",
     "Application.Speedingticket.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,8 +70,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -81,6 +85,7 @@
       <updated>1763247178303</updated>
       <workItem from="1763247179369" duration="13414000" />
       <workItem from="1763327988853" duration="8382000" />
+      <workItem from="1766003409265" duration="3604000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
