@@ -6,34 +6,24 @@ public class Appledivision {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter pw = new PrintWriter(System.out);
 
-        StringTokenizer st =  new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 1; j < n; j++) {
-                for (int k = 1; k < n; k++) {
+        int[] weights = new int[n];
 
-                }
-            }
+        st = new StringTokenizer(br.readLine());
+        for (int i = 0; i < n; i++) {
+            weights[i] = Integer.parseInt(st.nextToken());
         }
+
+        System.out.println(recursion(0, 0, 0, n, weights));
+        pw.write(recursion(0, 0, 0, n, weights));
+        pw.close();
     }
 
-    public int recursion(int total, int end, int index, int size){
-        if (end <= 0) {
-            return recursion(total, total, index, size+1);
-        }
-        if (index <= size) {
-            return recursion(total, end-1, end-1, size);
-        }
-        if  (size <= total) {
-            return 0;
-        }
-        else {
-            for (int i = 0; i < ; i++) {
-                
-            }
-            arr.add(num[end-1] + num[index])
-            return recursion(total, end, index-1, size);
-        }
+    public static int recursion(int i, int s1, int s2, int n, int[] weights) {
+        if (n == i) return Math.abs(s1-s2);
+
+        return Math.min(recursion(i+1, s1 + weights[i], s2, n, weights), recursion(i+1, s1, s2 + weights[i], n, weights));
     }
 }
