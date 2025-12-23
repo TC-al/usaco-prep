@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="appledivision solution (and creatingstrings file creation)">
-      <change afterPath="$PROJECT_DIR$/src/CreatingstringsBogoSearch.java" afterDir="false" />
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="creatingstrings bogo search attempt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Creatingstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creatingstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreatingstringsBogoSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatingstringsBogoSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1766003409265" duration="4390000" />
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
-      <workItem from="1766150783020" duration="4412000" />
+      <workItem from="1766150783020" duration="6428000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766383593950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="creatingstrings bogo search attempt">
+      <option name="closed" value="true" />
+      <created>1766386001278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766386001278</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +170,7 @@
     <MESSAGE value="maxdistance" />
     <MESSAGE value="appledivision attempt 1" />
     <MESSAGE value="appledivision solution (and creatingstrings file creation)" />
-    <option name="LAST_COMMIT_MESSAGE" value="appledivision solution (and creatingstrings file creation)" />
+    <MESSAGE value="creatingstrings bogo search attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="creatingstrings bogo search attempt" />
   </component>
 </project>

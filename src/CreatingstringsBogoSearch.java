@@ -23,6 +23,7 @@ public class CreatingstringsBogoSearch {
             }
             else if (temp != 0){
                 count.add(temp);
+                temp = 0;
             }
             prev = arr.get(i);
         }
@@ -34,7 +35,7 @@ public class CreatingstringsBogoSearch {
         }
 
         ArrayList<String> ans = new ArrayList<>();
-        while (ans.size() <= n) {
+        while (ans.size() < n) {
             Collections.shuffle(arr);
             String tempStr = "";
             for (int i = 0; i < arr.size(); i++) {
