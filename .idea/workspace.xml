@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="creatingstrings bogo search attempt">
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="creatingstrings completed">
+      <change afterPath="$PROJECT_DIR$/src/Chessboardandqueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creatingstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creatingstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreatingstringsBogoSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatingstringsBogoSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   "keyToString": {
     "Application.Appledivision.executor": "Run",
     "Application.Blockgame.executor": "Run",
+    "Application.Chessboardandqueens.executor": "Run",
     "Application.Creatingstrings.executor": "Run",
     "Application.CreatingstringsBogoSearch.executor": "Run",
     "Application.Main.executor": "Run",
@@ -97,7 +97,7 @@
       <workItem from="1766003409265" duration="4390000" />
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
-      <workItem from="1766150783020" duration="6428000" />
+      <workItem from="1766150783020" duration="9868000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766386001278</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="creatingstrings completed">
+      <option name="closed" value="true" />
+      <created>1766458293213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766458293213</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +179,7 @@
     <MESSAGE value="appledivision attempt 1" />
     <MESSAGE value="appledivision solution (and creatingstrings file creation)" />
     <MESSAGE value="creatingstrings bogo search attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="creatingstrings bogo search attempt" />
+    <MESSAGE value="creatingstrings completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="creatingstrings completed" />
   </component>
 </project>
