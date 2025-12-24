@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Distinctnumbers solution">
-      <change afterPath="$PROJECT_DIR$/src/Kayaking.java" afterDir="false" />
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Kayaking solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kayaking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kayaking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
       <workItem from="1766150783020" duration="10740000" />
-      <workItem from="1766533213959" duration="2028000" />
+      <workItem from="1766533213959" duration="2172000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766533569294</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Kayaking solution">
+      <option name="closed" value="true" />
+      <created>1766535288760</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766535288760</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +209,7 @@
     <MESSAGE value="creatingstrings completed" />
     <MESSAGE value="Chessboardandqueens solution" />
     <MESSAGE value="Distinctnumbers solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Distinctnumbers solution" />
+    <MESSAGE value="Kayaking solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kayaking solution" />
   </component>
 </project>

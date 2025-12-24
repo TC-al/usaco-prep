@@ -25,14 +25,11 @@ public class Kayaking {
         int min = 0;
         for (int i = 0; i < 2; i++) {
             int max = list.indexOf(Collections.max(list));
-            min = Collections.max(list);
             list.set(max, 0);
             arr.remove(max + 1);
         }
         for (int i = 0; i < n - 3; i+=2) {
-            if (arr.get(i + 1) - arr.get(i) < min) {
-                min = arr.get(i + 1) - arr.get(i);
-            }
+                min += arr.get(i + 1) - arr.get(i);
         }
         pw.println(min);
         pw.close();
