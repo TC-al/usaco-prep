@@ -9,9 +9,8 @@ public class Whereami {
         int n = Integer.parseInt(br.readLine());
         String str = br.readLine();
 
-        Set<String> set = new TreeSet<>();
-
         for (int i = 1; i <= n; i++) {
+            Set<String> set = new HashSet<>();
             for (int j = 0; j <= n - i; j++) {
                 set.add(str.substring(j,j + i));
                 if (set.size() == n - i + 1) {
@@ -20,7 +19,6 @@ public class Whereami {
                     return;
                 }
             }
-            set.clear();
         }
 
         pw.println(n);
