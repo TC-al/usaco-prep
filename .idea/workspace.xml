@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Whereami solution (more optimized)">
-      <change afterPath="$PROJECT_DIR$/src/Sleepycowherding.java" afterDir="false" />
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="sleepycowherding attempt 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sleepycowherding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sleepycowherding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
       <workItem from="1766150783020" duration="10740000" />
-      <workItem from="1766533213959" duration="16211000" />
+      <workItem from="1766533213959" duration="17369000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -217,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766551485342</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="sleepycowherding attempt 1">
+      <option name="closed" value="true" />
+      <created>1766724508621</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1766724508621</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +257,7 @@
     <MESSAGE value="Associativearray solution" />
     <MESSAGE value="Whereami solution" />
     <MESSAGE value="Whereami solution (more optimized)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Whereami solution (more optimized)" />
+    <MESSAGE value="sleepycowherding attempt 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="sleepycowherding attempt 1" />
   </component>
 </project>
