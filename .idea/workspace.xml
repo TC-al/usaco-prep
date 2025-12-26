@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="sleepycowherding attempt 1">
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="sleepycowherding solution">
+      <change afterPath="$PROJECT_DIR$/src/Threelogos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sleepycowherding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sleepycowherding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.Shell.executor": "Run",
     "Application.Sleepycowherding.executor": "Run",
     "Application.Speedingticket.executor": "Run",
+    "Application.Threelogos.executor": "Run",
     "Application.Whereami.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,7 +104,7 @@
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
       <workItem from="1766150783020" duration="10740000" />
-      <workItem from="1766533213959" duration="17369000" />
+      <workItem from="1766533213959" duration="24401000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -225,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766724508621</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="sleepycowherding solution">
+      <option name="closed" value="true" />
+      <created>1766725650701</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1766725650701</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +267,7 @@
     <MESSAGE value="Whereami solution" />
     <MESSAGE value="Whereami solution (more optimized)" />
     <MESSAGE value="sleepycowherding attempt 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="sleepycowherding attempt 1" />
+    <MESSAGE value="sleepycowherding solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="sleepycowherding solution" />
   </component>
 </project>
