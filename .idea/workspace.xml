@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Madscientist solution">
-      <change afterPath="$PROJECT_DIR$/src/Outofplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Outofplace solution">
+      <change beforePath="$PROJECT_DIR$/src/Outofplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Outofplace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,9 @@
     &quot;accountId&quot;: &quot;62433096-9387-4d1a-bb17-10049148a3f4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -106,7 +108,7 @@
       <workItem from="1766076617963" duration="956000" />
       <workItem from="1766090490111" duration="1183000" />
       <workItem from="1766150783020" duration="10740000" />
-      <workItem from="1766533213959" duration="29160000" />
+      <workItem from="1766533213959" duration="29445000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -252,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766778960975</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Outofplace solution">
+      <option name="closed" value="true" />
+      <created>1766782892580</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1766782892580</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +298,7 @@
     <MESSAGE value="sleepycowherding solution" />
     <MESSAGE value="threelogos attempt 1 (fails: 75 31 69 100 25 31)" />
     <MESSAGE value="Madscientist solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Madscientist solution" />
+    <MESSAGE value="Outofplace solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Outofplace solution" />
   </component>
 </project>

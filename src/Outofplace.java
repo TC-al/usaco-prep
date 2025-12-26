@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Outofplace {
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("outofplace.in"));
         PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("outofplace.out")));
 
