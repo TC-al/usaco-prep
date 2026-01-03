@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179c0cd4-f838-4188-be7b-a74d3428ceb9" name="Changes" comment="Outofplace solution (random warning fix)">
-      <change afterPath="$PROJECT_DIR$/src/Livestocklineup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fencepainting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="35XCkyKzBiddtpEYLtSrDjVX82x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +56,7 @@
     "Application.Creatingstrings.executor": "Run",
     "Application.CreatingstringsBogoSearch.executor": "Run",
     "Application.Distinctnumbers.executor": "Run",
+    "Application.Fencepainting.executor": "Run",
     "Application.Kayaking.executor": "Run",
     "Application.Livestocklineup.executor": "Run",
     "Application.Madscientist.executor": "Run",
@@ -111,6 +113,7 @@
       <workItem from="1766090490111" duration="1183000" />
       <workItem from="1766150783020" duration="10740000" />
       <workItem from="1766533213959" duration="35618000" />
+      <workItem from="1763327988853" duration="8998000" />
     </task>
     <task id="LOCAL-00001" summary="mixmilk">
       <option name="closed" value="true" />
@@ -310,6 +313,7 @@
     <MESSAGE value="Madscientist solution" />
     <MESSAGE value="Outofplace solution" />
     <MESSAGE value="Outofplace solution (random warning fix)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Outofplace solution (random warning fix)" />
+    <MESSAGE value="blockgame attempt 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="blockgame attempt 1" />
   </component>
 </project>
